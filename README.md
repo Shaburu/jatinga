@@ -20,8 +20,8 @@
 
  # **Project Setup**
  The game can be installed on your desktop/pc through the Itch Io page created for the game or The Launch Page of Falhofner. The links are given below.
- <a href="https://shaburu.github.io/Falhofner/" target="_blank"> Falhofner</a>
-  <a href="https://shaburu.itch.io/jatinga" target="_blank"> Itch io Store page</a>
+ * <a href="https://shaburu.github.io/Falhofner/" target="_blank"> Falhofner</a>
+ * <a href="https://shaburu.itch.io/jatinga" target="_blank"> Itch io Store page</a>
  
  
 # **Future Scope**
