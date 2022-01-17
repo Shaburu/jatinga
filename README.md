@@ -16,3 +16,17 @@
 1. Language : C#
 2. Engine : Unity ( Version 2020.3.23f1)
 3. Editor : Visual Studio
+
+ # **Project Setup**
+ The game can be installed on your desktop/pc through the Itch Io page created for the game or The Launch Page of Falhofner. The links are given below.
+ <a href="https://shaburu.github.io/Falhofner/" target="_blank"> Falhofner</a>
+  <a href="https://shaburu.itch.io/jatinga" target="_blank"> Itch io Store page</a>
+ 
+ 
+# **Future Scope**
+ The lore can be explanded and Sequels can be made for Jatinga as the protagonist can have various facets of their life
+ 
+ # **Screenshots**
+ ![image](https://user-images.githubusercontent.com/67481819/149765172-3d6837d9-54ac-444e-a416-d83e0c60409f.png)
+![image](https://user-images.githubusercontent.com/67481819/149765245-5a806467-cbf2-4b67-9eb5-4279134171e8.png)
+![image](https://user-images.githubusercontent.com/67481819/149765305-66dcd908-2b36-4318-9964-97088311bf77.png)
