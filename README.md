@@ -1,7 +1,8 @@
 # **Project name : Jatinga: Pangupatinanda's Tales of Adventure**
 ### **Team name : Candice**
 # **Team Members**
-* Shaburu- (xshaburu@gmail.com)
+* Shaburu - (xshaburu@gmail.com)
+* Anurag Pandey - (aapandey_b20@et.vjti.ac.in)
 
 # **Mentors**
 * Devayani Shivankar
