@@ -13,3 +13,6 @@
  ![Jatinga promo banner](https://user-images.githubusercontent.com/67481819/149756285-8fdfec5a-4acc-4a00-9332-347c401fabaa.jpg)
 
  ### **Tech Stack**
+1. Language : C#
+2. Engine : Unity ( Version 2020.3.23f1)
+3. Editor : Visual Studio
